@@ -16,7 +16,7 @@ Gamma.app - https://gamma.app/
 gerei um comando para desenvolver o conteudo e a inteligencia artificial fez todo o trabalho.
 
 ## 🚀 Resultados
-O slide gerado é realmente surpreendente
+O slide gerado é realmente surpreendente - https://github.com/jessicacorreaes/lab-natty-or-not/blob/main/Transformando-Industrias-com-IA-Generativa-Casos-de-Uso-Inovadores-compressed.pdf
 
 
 ## 💭 Reflexão (Opcional)
