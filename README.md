@@ -5,7 +5,9 @@
 # Transformando Indústrias com IA Generativa: Casos de Uso Inovadores
 
 ## 📒 Descrição
-Este projeto explora o impacto inovador da IA generativa em diversas indústrias, destacando casos de uso que demonstram a transformação provocada por essa tecnologia. Utilizando a plataforma gamma.app, o conteúdo foi gerado automaticamente para testar as capacidades da inteligência artificial. A IA generativa foi aplicada para criar um conteúdo visual e textual, mostrando como a IA pode acelerar processos criativos, reduzir custos e abrir novos mercados. 
+Este projeto explora o impacto inovador da IA generativa em diversas indústrias, destacando casos de uso que demonstram a transformação provocada por essa tecnologia.
+Utilizando a plataforma gamma.app, o conteúdo foi gerado automaticamente para testar as capacidades da inteligência artificial.
+A IA generativa foi aplicada para criar um conteúdo visual e textual, mostrando como a IA pode acelerar processos criativos, reduzir custos e abrir novos mercados. 
 
 ## 🤖 Tecnologias Utilizadas
 Gamma.app - https://gamma.app/
@@ -18,6 +20,8 @@ O slide gerado é realmente surpreendente
 
 
 ## 💭 Reflexão (Opcional)
-Como profissional da area da educação, especialista em Designer Instrucional, me encanta todas essas possibilidades, me lembro de passar horas para gerar algo similar, e demorei segundos para fazer com essa inteligencia. Eu vislumbro grandes possibilidades para o mundo da educação e isso me deixa animada.
+Como profissional da area da educação, especialista em Designer Instrucional, me encanta todas essas possibilidades,
+me lembro de passar horas para gerar algo similar, e demorei segundos para fazer com essa inteligencia.
+Eu vislumbro grandes possibilidades para o mundo da educação e isso me deixa animada.
 
 
